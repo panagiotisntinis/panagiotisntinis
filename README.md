@@ -67,9 +67,10 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=panagiotisntinis&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=panagiotisntinis&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=panagiotisntinis&theme=tokyonight" alt="GitHub Streak" height="160px"/>
 </p>
+
 
 ---
 
