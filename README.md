@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **panagiotisntinis/panagiotisntinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Panagiotis Ntinis! 👋</h1>
 
 <p align="center">
-🚀 Cybersecurity Expert | DevOps | System Admin  
-🔹 Python | FastAPI | Docker | Cloud Infrastructure  
-💼 Skroutz Marketplace Expert | E-commerce Automation  
+🚀 Cybersecurity Expert | DevOps | System Admin
+</p>
+<p align="center">
+🔹 Python | FastAPI | Docker | Cloud Infrastructure
+</p>
+<p align="center">
+💼 Skroutz Marketplace Expert | E-commerce Automation
 </p>
 
 ---
