@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 🔹 **17 years** as a Military Officer transitioning into the IT industry.  
 🔹 **6+ years** of freelance experience in **cloud infrastructure, e-commerce automation, and cybersecurity**.  
-🔹 Worked with clients like **papit.de, adituptees.com, and allmart.gr**.  
+🔹 Worked with clients clients in **Greece, Europe, and the U.S.A**.  
 🔹 Managed **dozens of WooCommerce websites** and deployed **containerized applications** on dedicated servers.  
 
 ---
